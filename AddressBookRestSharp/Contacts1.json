@@ -1,0 +1,102 @@
+{
+  "Contacts": [
+    {
+      "FirstName": "Bajaj",
+      "LastName": "Honda",
+      "PhoneNumber": "7896544569",
+      "Email": "Bajaj@gmail.com",
+      "Address": "Bike nagar",
+      "DateAdded": "2020-11-11T20:38:30.183",
+      "zip": "741258",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "AddressBook Name": "BroBook",
+      "contactType": "Friend   Family   "
+    }
+,
+    {
+      "FirstName": "Bhaskar",
+      "LastName": "chandra",
+      "PhoneNumber": "1212121212",
+      "Email": "abc@gmail.com",
+      "Address": "this nagar",
+      "DateAdded": "2020-11-08T17:09:00.67",
+      "zip": "123456",
+      "city": "Mumbai",
+      "state": "Maharastra",
+      "AddressBook Name": "yesBook",
+      "contactType": "Friend   Family   "
+    }
+,
+    {
+      "FirstName": "Kamalakar",
+      "LastName": "Rao",
+      "PhoneNumber": "7896541233",
+      "Email": "Kamalakars04@gmail.com",
+      "Address": "abc,xyz street",
+      "DateAdded": "2020-11-08T12:44:39.613",
+      "zip": "686574",
+      "city": "pala",
+      "state": "kerala",
+      "AddressBook Name": "BroBook",
+      "contactType": "Friend   "
+    }
+,
+    {
+      "FirstName": "Kamalakar",
+      "LastName": "s",
+      "PhoneNumber": "8523697411",
+      "Email": "skvrks@gmail.com",
+      "Address": "abc,xyz street",
+      "DateAdded": "2020-11-08T12:44:39.613",
+      "zip": "686574",
+      "city": "pala",
+      "state": "kerala",
+      "AddressBook Name": "BroBook",
+      "contactType": "Friend   "
+    }
+,
+    {
+      "FirstName": "Ram",
+      "LastName": "raju",
+      "PhoneNumber": "8957463211",
+      "Email": "Ram@gmail.com",
+      "Address": "abc,xyz street",
+      "DateAdded": "2020-11-08T12:44:39.613",
+      "zip": "136119",
+      "city": "kurukshetra",
+      "state": "haryana",
+      "AddressBook Name": "BroBook",
+      "contactType": "Friend   "
+    }
+,
+    {
+      "FirstName": "Ravi",
+      "LastName": "kumar",
+      "PhoneNumber": "8888888889",
+      "Email": "ravi@gmail.com",
+      "Address": "abc,xyz street",
+      "DateAdded": "2020-11-08T12:44:39.613",
+      "zip": "136119",
+      "city": "kurukshetra",
+      "state": "haryana",
+      "AddressBook Name": "Brobook",
+      "contactType": "relative   "
+    }
+,
+    {
+      "FirstName": "Varun",
+      "LastName": "Arora",
+      "PhoneNumber": "4564564564",
+      "Email": "Varun@gmail.com",
+      "Address": "That nagar",
+      "DateAdded": "2020-11-11T20:38:30.183",
+      "zip": "741258",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "AddressBook Name": "Mybook",
+      "contactType": "Friend   family   "
+    }
+
+  ]
+}
