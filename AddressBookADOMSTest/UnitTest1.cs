@@ -260,5 +260,21 @@ namespace AddressBookADOMSTest
                 Assert.AreEqual(response.StatusCode, HttpStatusCode.OK);
             });
         }
+
+        /// <summary>
+        /// UC 25 Ability to delete contact
+        /// </summary>
+        [TestMethod]
+        public void OnCallingDELETEApi_ShouldDeleteContact()
+        {
+            //Arrange
+            RestRequest request = new RestRequest("/contacts/Manish", Method.DELETE);
+
+            //Act
+            IRestResponse response = client.Execute(request);
+
+            //Assert
+            Assert.AreEqual(response.StatusCode, HttpStatusCode.OK);
+        }
     }
 }
