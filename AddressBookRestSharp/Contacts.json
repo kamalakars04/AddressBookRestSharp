@@ -132,26 +132,6 @@
     {
       "zip": {
         "zip": null,
-        "city": "Warangal",
-        "state": "AndhraPradesh"
-      },
-      "FirstName": "Manish",
-      "LastName": "Pandey",
-      "PhoneNumber": "1111111111",
-      "Email": "mani.com",
-      "Address": "maruti colony",
-      "city": "Warangal",
-      "state": "AndhraPradesh",
-      "DateAdded": "0001-01-01T00:00:00",
-      "BookNameContactType": {
-        "MyBook": [
-          "Friend"
-        ]
-      }
-    },
-    {
-      "zip": {
-        "zip": null,
         "city": "Khammam",
         "state": "AndhraPradesh"
       },
