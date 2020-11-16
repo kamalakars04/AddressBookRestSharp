@@ -1,4 +1,5 @@
-{"Contacts": [
+{
+  "Contacts": [
     {
       "zip": {
         "zip": "741258",
@@ -127,5 +128,46 @@
       "Email": "Varun@gmail.com",
       "Address": "That nagar",
       "DateAdded": "2020-11-11T20:38:30.183"
+    },
+    {
+      "zip": {
+        "zip": null,
+        "city": "Warangal",
+        "state": "AndhraPradesh"
+      },
+      "FirstName": "Manish",
+      "LastName": "Pandey",
+      "PhoneNumber": "2344746584",
+      "Email": "mani.com",
+      "Address": "maruti colony",
+      "city": "Warangal",
+      "state": "AndhraPradesh",
+      "DateAdded": "0001-01-01T00:00:00",
+      "BookNameContactType": {
+        "MyBook": [
+          "Friend"
+        ]
+      }
+    },
+    {
+      "zip": {
+        "zip": null,
+        "city": "Khammam",
+        "state": "AndhraPradesh"
+      },
+      "FirstName": "Vijay",
+      "LastName": "Sankar",
+      "PhoneNumber": "4566544566",
+      "Email": "sankar.com",
+      "Address": "colony",
+      "city": "Khammam",
+      "state": "AndhraPradesh",
+      "DateAdded": "0001-01-01T00:00:00",
+      "BookNameContactType": {
+        "MyBook": [
+          "Friend"
+        ]
+      }
     }
-  ]}
+  ]
+}
